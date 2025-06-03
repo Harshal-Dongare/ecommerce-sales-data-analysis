@@ -14,6 +14,20 @@ To understand:
 - Regional and category-wise profitability
 - Year-over-Year (YoY) growth and trends
 
+🧰 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts (Clustered Column, Combo, Waterfall, Pie)
+- Slicers & Filters
+- Dashboard Design
+
+📈 Key Features
+- Clean and structured sales dataset
+- KPI summary (Total Sales, Profit, YoY Growth)
+- Category and Region-wise breakdown
+- Top 5 profitable segments
+- Fully interactive Excel dashboard
+
 ---
 
 ###  Sales & Profit Analysis
