@@ -3,6 +3,8 @@
 
 This project is focused on analyzing and visualizing an e-commerce company's sales performance using Microsoft Excel. It includes data cleaning, trend analysis, KPI calculation, and an interactive dashboard for better business insights.
 
+![](sales-analysis.png)
+
 ---
 
 ### 📌 Project Objective
